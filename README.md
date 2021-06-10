@@ -4,5 +4,5 @@
 - Used mobilecam for Server side and Webcam for client side.
 - Used TCP protocol for some limitaions in UDP protocol.
 
-### For video demonstration follow the bellow link
-(https://www.linkedin.com/in/dileepkumarsr/)
+### For video demonstration follow the below link
+[Clink this👇](https://www.linkedin.com/in/dileepkumarsr/)
